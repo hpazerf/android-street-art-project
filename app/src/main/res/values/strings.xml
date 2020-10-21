@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Social Graffiti</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="post_image">Post Image</string>
+    <string name="post_title">Post Title</string>
+    <string name="tags">Tags</string>
+    <string name="publish">Publish</string>
+    <string name="postcontentlabel">Post Content</string>
+    <string name="location">Location : 66,234534,-123,123131</string>
+    <string-array name="categories_array">
+        <item>Tag</item>
+        <item>Throw-up</item>
+        <item>Blockbuster</item>
+        <item>Wildstyle</item>
+        <item>Heaven</item>
+        <item>Stencil</item>
+        <item>Poster (paste-up)</item>
+        <item>Sticker (slap)</item>
+        <item>Piece</item>
+    </string-array>
+</resources>
