@@ -1,6 +1,6 @@
 # android-street-art-project
-Create an android app with a database connection to a web-app
-Created this project in a group with 4 people including myself
+* Create an android app with a database connection to a web-app
+* Created this project in a group with 4 people including myself
 ## Project overview:
 
 * Crowd sourced application
